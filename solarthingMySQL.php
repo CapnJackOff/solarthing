@@ -4,9 +4,9 @@ Enter all your server details here
 Warning: Case sEnSiTIVe */
 /****************************/
 $servername = "localhost";
-$username   = "polyash_IoT";
-$password   = "9Pass!";
-$dbname     = "polyash_Solarthing";
+$username   = "some_username";
+$password   = "password";
+$dbname     = "some_database";
 $tablename  = "Solarthing";
 /****************************/
 /*
