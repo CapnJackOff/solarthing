@@ -1,4 +1,8 @@
 <?php
+/*
+v.1 by CapnJack
+
+*/
 /*****************************
 Enter all your server details here
 Warning: Case sEnSiTIVe */
@@ -8,6 +12,9 @@ $username   = "some_username";
 $password   = "password";
 $dbname     = "some_database";
 $tablename  = "Solarthing";
+//Number of days to keep data
+//Retention function will be added soon
+$ret        = 30;
 /****************************/
 /*
 date_default_timezone_set('America/Vancouver');
